@@ -32,8 +32,8 @@ Wayback Machine: https://archive.org/
   
 ## Carbon-14
 
-Important: requires Python 3.8 or earlier.
-Github: https://github.com/Lazza/Carbon14   
+Important: requires Python 3.8 or earlier.  
+Github: https://github.com/Lazza/Carbon14     
 Tutorial: https://nixintel.info/osint-tools/carbon-14-verifying-the-age-of-a-website/  
 
 ## Urlscan & Censys
