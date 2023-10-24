@@ -1,14 +1,14 @@
 # SANS Webcast October 2023
-Resources mentioned during the Oct 2023 webcast "Investigating Suspicious Websites"
+Resources mentioned during the Oct 2023 webcast "Investigating Suspicious Websites" 
 
 
 ## About Me
 
-Web: https://www.nixintel.info  
-Twitter: https://twitter.com/nixintel  
-LinkedIn: https://www.linkedin.com/in/steven-harris-nixintel  
-SEC497 Course: https://www.sans.org/sec497  
-Protection Group International: https://pgitl.com  
+Web: https://www.nixintel.info   
+Twitter: https://twitter.com/nixintel   
+LinkedIn: https://www.linkedin.com/in/steven-harris-nixintel   
+SEC497 Course: https://www.sans.org/sec497   
+Protection Group International: https://pgitl.com   
 
 # Talk Resources
 
